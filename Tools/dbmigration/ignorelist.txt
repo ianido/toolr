@@ -1,0 +1,3 @@
+﻿[SCHEMA].*
+[SCHEMA].[TABLE1] 
+[SCHEMA].[TABLE2] 

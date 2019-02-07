@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFrameworks>netcoreapp2.1;net451</TargetFrameworks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\toolr.common\toolr.common.csproj" />
+    <ProjectReference Include="..\Tools\sampletool\sampletool.csproj" />
+    <ProjectReference Include="..\Tools\dbmigration\dbmigration.csproj" />
+  </ItemGroup>
+
+</Project>
